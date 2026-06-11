@@ -8,20 +8,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,vscode" />
 </p>
 
-### 🔥 Herramientas de Seguridad
-
-```text
-✔ Nmap
-✔ Wireshark
-✔ Burp Suite
-✔ Metasploit
-✔ Nessus
-✔ OWASP ZAP
-✔ John The Ripper
-✔ Hydra
-✔ Gobuster
-```
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -36,28 +22,10 @@
 
 ---
 
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&margin-w=10" />
-</p>
-
----
-
-## 📚 Actualmente aprendiendo
-
-- Web Application Security
-- Active Directory Attacks
-- Threat Hunting
-- Malware Analysis
-- Cloud Security
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Ethical+Hacker;Security+Enthusiast;Always+Learning&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  ⚡ "La seguridad no es un producto, es un proceso."
+  ⚡ "Ningun sistema es seguro"
 </p>
