@@ -1,6 +1,6 @@
 <h1 align="center">🛡️ Hola, soy [Jhony]</h1>
 
-<h3 align="center">🔐 Entusiasta de la Ciberseguridad | Ethical Hacking | Blue Team | Red Team</h3>
+<h3 align="center">🔐 Entusiasta de la Ciberseguridad | Ethical Hacking | Red Team</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 🎯 Apasionado por la Ciberseguridad y la Seguridad Ofensiva.
 - 🔍 Interesado en Pentesting, OSINT y Análisis de Malware.
 - 🛠️ Aprendiendo continuamente sobre Red Team y Blue Team.
-- 🌎 Compartiendo conocimientos y proyectos relacionados con seguridad informática.
+- 🌎 Ningun sistema es seguro.
 
 ---
 
