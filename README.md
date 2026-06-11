@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJqZXJ1M2I0c2xvNnB5bHlnbDVyN3Y4c2s2eW1rN3h4a2QwY3JjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNsbDk4b2MyMHBwaDVpbWR5eHIzcWhybmlxN3NpMjV6cWNpNjJ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11YMFLRM0gWZ1u/giphy.gif" width="700">
   
 </div>
 <h3 align="center">Ciberseguridad | Ethical Hacking | Red Team</h3>
