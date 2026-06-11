@@ -4,17 +4,6 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-
-- 🎯 Apasionado por la Ciberseguridad y la Seguridad Ofensiva.
-- 🔍 Interesado en Pentesting, OSINT y Análisis de Malware.
-- 🛠️ Aprendiendo continuamente sobre Red Team y Blue Team.
-- 🌎 Ningun sistema es seguro.
-
----
-
-## 🚀 Tecnologías y Herramientas
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,vscode" />
 </p>
