@@ -65,16 +65,6 @@
 
 ---
 
-## 🌐 Contacto
-
-<p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">LinkedIn</a> •
-  <a href="https://twitter.com/TU_USUARIO">X/Twitter</a> •
-  <a href="mailto:correo@ejemplo.com">Email</a>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Ethical+Hacker;Security+Enthusiast;Always+Learning&center=true&width=500&height=50">
 </p>
