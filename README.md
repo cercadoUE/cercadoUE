@@ -1,6 +1,8 @@
-<h1 align="center">🛡️ Hola, soy [Jhony]</h1>
-
-<h3 align="center">🔐 Entusiasta de la Ciberseguridad | Ethical Hacking | Red Team</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJqZXJ1M2I0c2xvNnB5bHlnbDVyN3Y4c2s2eW1rN3h4a2QwY3JjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
+  
+</div>
+<h3 align="center">Ciberseguridad | Ethical Hacking | Red Team</h3>
 
 ---
 
