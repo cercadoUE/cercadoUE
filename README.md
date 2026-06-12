@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" width="300">
+  <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" width="100">
   
 </div>
 <h3 align="center">Ciberseguridad | Ethical Hacking | Red Team</h3>
