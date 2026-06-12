@@ -19,9 +19,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Ethical+Hacker;Security+Enthusiast;Always+Learning&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  ⚡ "Ningun sistema es seguro"
+  ⚡ "Ningun sistema es seguro"⚡
 </p>
